@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-8fh1ky.plcwin.xyz/sitemap.xml
